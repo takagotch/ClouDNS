@@ -8,7 +8,7 @@ Mail:      xxxx@gmail.com
 Signed IP: 153.239.11.9
 
 #### tkvtv.cloudns.asia	
-Eメールアドレス:  xxx1@gmail.com
+Eメールアドレス:  xxx+1@gmail.com
 登録のIPアドレス: 153.239.11.9	
 
 http://tkvtv.cloudns.asia/
